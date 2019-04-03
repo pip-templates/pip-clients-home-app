@@ -1,0 +1,8 @@
+{
+    "environment": "stage",
+    "name": "pip-clients-home-app",
+    "short_name": "home",
+    "registry": "pipregistry.azurecr.io/pip-clients",
+    "version": "1.0.0",
+    "build": 1
+}
